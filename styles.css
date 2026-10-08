@@ -1,0 +1,110 @@
+body {
+  cursor:url('https://i.postimg.cc/QBXdq4z4/evilcider32.png'), auto;
+  background-color: #101418;
+  font-family: "Courier Prime", monospace;
+  color: rgb(255, 255, 255);
+  padding:10px;
+  padding-left:25px;
+  padding-right:25px;
+  font-weight: lighter;
+  font-size: 92%;
+}
+table, th, td {
+  background-color: #070605;
+  border: 1px rgb(128, 128, 128);
+  border-collapse: collapse;
+  padding: 5px;
+}
+tr:hover {
+  background-color: #323838;
+  color:white;
+  border-top:1px solid;
+  border-bottom:1px solid
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: right;
+}
+.page-title {
+  font-size: 175%;
+  margin-inline: 8% 8%;
+  padding: 28px;
+  padding-right: 0%;
+  padding-left: 0%;
+  padding-bottom: 20px;
+  border-bottom: solid 1px rgba(255, 255, 255, 0.5);
+}
+h3 {
+  font-size: 135%;
+}
+.section-head {
+  border-bottom: solid 1px rgba(255, 255, 255, 0.5);
+  margin-top: 10px;
+  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.content {
+  padding: 8px;
+  margin-inline: 15%;
+  padding-bottom: 30px; 
+  margin-top: 0%;
+}
+div {
+  background-color:#0f1216;
+  vertical-align: text-top;
+  padding: 10px;
+  max-width: fit-content;
+  margin-inline: 8% 8%;
+  writing-mode: horizontal-tb;
+}
+.intro-div {
+  margin-inline: 8% 8%;
+  padding: 10px;
+  padding-left: 0%;
+}
+.main-div {
+  border-top: hidden 0px rgba(255, 255, 255, 0.5);
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+.main-div p {
+  margin-right: 1%
+}
+.table-div {
+  padding-top: 30px;
+  padding-right: 0px;
+  float: right;
+  margin-inline: 3% 0%;
+}
+.quote-div {
+  border-left: solid 5px rgba(255, 255, 255, 0.5); 
+  color:white; 
+  padding:.1px; 
+  padding-left:25px;
+  margin-inline-start: 12%
+}
+
+summary {
+  background-color: #15130f;
+  color: white;
+  border-top: solid;
+  border-bottom: solid;
+  border: 1px hidden rgb(128, 128, 128);
+}
+
+audio {
+  width: 100%;
+  color: #15130f;
+  transform: scale(.9)
+}
+
+iframe {
+  padding-top: 15px;
+}
