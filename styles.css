@@ -104,7 +104,10 @@ audio {
   color: #15130f;
   transform: scale(.9)
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 iframe {
   padding-top: 15px;
 }
