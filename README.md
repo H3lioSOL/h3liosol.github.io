@@ -1,2 +1,3 @@
-# h3liosol.github.io
-[Aevitas](aevitas_xien.html)
+<script>
+  window.location.replace("https://h3liosol.github.io/directory.html");
+</script>
