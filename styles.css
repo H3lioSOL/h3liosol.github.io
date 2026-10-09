@@ -1,6 +1,8 @@
-body {
-  cursor:url('https://i.postimg.cc/QBXdq4z4/evilcider32.png'), auto;
+html {
   background-color: #101418;
+  cursor:url('https://i.postimg.cc/QBXdq4z4/evilcider32.png'), auto;
+}
+body {
   font-family: "Courier Prime", monospace;
   color: rgb(255, 255, 255);
   padding:10px;
