@@ -22,10 +22,10 @@ tr:hover {
   border-bottom:1px solid
 }
 th {
-    text-align: left;
+  text-align: left;
 }
 td {
-    text-align: right;
+  text-align: right;
 }
 .page-title {
   font-size: 175%;
@@ -58,7 +58,7 @@ div {
   background-color:#0f1216;
   vertical-align: text-top;
   padding: 10px;
-  max-width: fit-content;
+  max-width: 85%;
   margin-inline: 8% 8%;
   writing-mode: horizontal-tb;
 }
@@ -88,7 +88,8 @@ div {
   color:white; 
   padding:.1px; 
   padding-left:25px;
-  margin-inline-start: 12%
+  margin-inline-start: 12%;
+  margin-inline-end: 25%;
 }
 
 summary {
@@ -104,10 +105,7 @@ audio {
   color: #15130f;
   transform: scale(.9)
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
+
 iframe {
   padding-top: 15px;
 }
